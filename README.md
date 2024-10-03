@@ -7,7 +7,7 @@
 
 - 🔧 I’m looking for help with **Angular**
 
-- 📫 How to reach me **statevd@gmail.com**
+- 📫 How to reach me: **statevd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
