@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Dimitar Statev, a passionate full-stack web developer, living in France.</h3>
 
-- 🌱 I’m currently learning **Angular** and **TypeScript**
+- 🌱 I’m currently learning **Angular**
 
 - 👏 I’m looking to collaborate on **all kind of JS/TS projects**
 
